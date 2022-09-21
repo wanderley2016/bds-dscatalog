@@ -1,14 +1,13 @@
-import Navbar from './components/Navbar';
 import './assets/styles/custom.scss';
 import './App.css';
+import Home from './pages/Home';
 
-const App = () => {
+
+function App() {
   return (
-    <>
-      <Navbar />
-      <h1>Hellow dsCatalog</h1>
-    </>
-  );
-};
+
+  <Home />
+  )
+}
 
 export default App;
