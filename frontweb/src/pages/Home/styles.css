@@ -52,9 +52,6 @@ para as telas maiores usando flex box para as posições dos elementos (Aula 22/
     width: 506px;
     margin-bottom: 20px;
   }
-  .home-content-container button {
-    width: 506px;
-  }
   .home-image-container svg {
     width: 506px;
   }
